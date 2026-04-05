@@ -5,6 +5,18 @@ A simple Netflix landing page clone built using HTML and CSS.
 ## 🚀 Live Demo
 https://samarth-ghule2006.github.io/netflix-clone/
 
+### 🏠 Homepage
+![Homepage](img1.png)
+
+### 📺 TV Section
+![TV](img2.png)
+
+### 📥 Download Section
+![Download](img3.png)
+
+### ❓ FAQ Section
+![FAQ](img4.png)
+
 ## 🛠️ Tech Used
 - HTML
 - CSS
